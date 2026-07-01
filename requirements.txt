@@ -1,0 +1,14 @@
+# Python version: 3.11 or higher recommended 
+ 
+# Core dependencies for Enterprise AI Integration 
+langchain
+langchain-community 
+langchain-openai 
+langchain-anthropic 
+langchain-google-genai 
+ 
+# Vector databases & embeddings 
+chromadb 
+pinecone-client 
+weaviate-client 
+faiss-cpu 
